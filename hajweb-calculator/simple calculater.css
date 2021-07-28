@@ -1,0 +1,73 @@
+/* this file will orgnized simple calculater.html. */
+/* start */
+#innerhtml{
+text-align: center;
+    font-size: 3cm;
+}
+#add1{
+    font-size: 1.5cm;
+    position: relative;
+    left: 10cm;
+    color: rgba(44, 175, 116, 0.815);
+}
+#n1{
+    height: 50;
+    width: 190;
+    font-size: 0.9cm;
+    position: relative;
+    left: 15cm;
+    top: -2.9cm;
+}
+#add2{
+    font-size: 1.5cm;
+    position: relative;
+    left: 10cm;
+    color: rgba(44, 175, 116, 0.815);
+}
+#n2{
+    height: 50;
+    width: 190;
+    font-size: 0.9cm;
+    position: relative;
+    left: 15cm;
+    top: -2.9cm;
+}
+#inputp{
+    position: relative;
+    left: 23cm;
+    top: -6cm;
+    height: 150;
+    width: 150;
+
+    font-size: 1.5cm;
+}
+
+#input-{
+    position: relative;
+    left: 24cm;
+    top: -6cm;
+    height: 150;
+    width: 150;
+
+    font-size: 1.5cm;
+}
+
+#inputz{
+    position: relative;
+    left: 15cm;
+    top: -11cm;
+    height: 150;
+    width: 150;
+
+    font-size: 1.5cm;
+}
+
+#inputt{
+    position: relative;
+    left: 16cm;
+    top: -11cm;
+    height: 150;
+    width: 150;
+
+    font-size: 1.5cm;
+}
